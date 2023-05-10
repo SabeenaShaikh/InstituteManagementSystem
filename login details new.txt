@@ -1,0 +1,11 @@
+not used store procedures ok
+queries are wrttin in code as i will show in perticular form
+
+
+
+
+new login details
+
+        username  password
+	admin    	123
+	sabeena	        123
